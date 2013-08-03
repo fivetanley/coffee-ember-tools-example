@@ -1,0 +1,28 @@
+{
+  "name": "coffee-ember-tools-example",
+  "version": "0.0.0",
+  "description": "Just an example repo for using grunt tasks for @zwily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fivetanley/coffee-ember-tools-example.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Stanley Stuart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fivetanley/coffee-ember-tools-example/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.1",
+    "grunt": "~0.4.1",
+    "grunt-shell": "~0.3.1",
+    "grunt-contrib-connect": "~0.3.0"
+  }
+}
